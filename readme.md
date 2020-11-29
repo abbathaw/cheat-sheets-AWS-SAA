@@ -4,4 +4,4 @@ The following cheat sheets are screenshots from the freeCodeCamp tutorial youtub
 
 I did not create these cheat sheets but I found them interesting and relevant to last minute revision, so I screenshot them from the youtube video and put them here in this slide view.
 
-You can view the full 10 hour tutorial video [here]("https://www.youtube.com/watch?v=Ia-UEYYR44s&ab_channel=freeCodeCamp.org").
+You can view the full 10 hour tutorial video [here](https://www.youtube.com/watch?v=Ia-UEYYR44s&ab_channel=freeCodeCamp.org).
